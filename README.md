@@ -62,5 +62,7 @@ Step 8. After successfull login then only user can able to access other API give
                            - method : GET
                            - This api is used to get user based on username passed in api only if user logged in successfully
                            
+ Step 9 : At last to run this app type :  node App.js and press enter (node should be installed in your machine)
+                           
  Note : To test all above apis used postman or any ther api testing tool of your choice
          
